@@ -1,0 +1,19 @@
+virtual-classroom/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── virtualclassroom/
+│       │           ├── VirtualClassroomApplication.java
+│       │           ├── controller/
+│       │           │   └── ClassroomController.java
+│       │           ├── model/
+│       │           │   └── Meeting.java
+│       │           ├── service/
+│       │           │   └── ClassroomService.java
+│       │           └── repository/
+│       │               └── MeetingRepository.java
+│       └── resources/
+│           └── application.properties
+├── pom.xml
+└── README.md
